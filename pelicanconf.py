@@ -17,7 +17,10 @@ DATE_FORMATS = {
     'jp': '%Y-%m-%d(%a)',
     'fr': '%d %m %Y'}
 
-PLUGIN_PATHS = ['../pelican-plugins/']
+PLUGIN_PATHS = 
+['../pelican-plugins/',
+'pelican-flickr',
+]
 PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
            'liquid_tags.include_code',
