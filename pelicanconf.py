@@ -48,7 +48,7 @@ MENUITEMS = (
   #('Geomatic', 'pages/project-manager-gis-administrator-and-spatial-analyst.html'),
   #('Image Sound Prod', 'pages/we-are-prod.html'),('Claire Cousergue', 
   #  'pages/claire-cousergue-camerawoman-location-manager.html'),
-  #('Gallery', 'pages/my-albums.html'),('Archives','archives.html')
+  ('Gallery', 'pages/my-albums.html'),('Archives','archives.html')
   )
 
 STATIC_PATHS = ['images']
