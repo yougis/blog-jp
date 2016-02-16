@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Jean Pierre Roussaffa'
 SITENAME = u'JP'
-SITEURL = 'http://jproussaffa.alwaysdata.net'
+SITEURL = 'http://jproussaffa.pythonanywhere.com'
 
 PATH = 'content'
 
@@ -28,6 +28,7 @@ PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
 LOAD_CONTENT_CACHE = False
 
 THEME = "pure-single-jp"
+
 EXTRA_TEMPLATES_PATHS = ['../pelican-themes/flickr/',]
 
 DEFAULT_LANG = 'fr'
