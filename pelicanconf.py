@@ -17,7 +17,7 @@ DATE_FORMATS = {
     'jp': '%Y-%m-%d(%a)',
     'fr': '%d %m %Y'}
 
-PLUGIN_PATHS = ['../pelican-plugins/', 'pelican-flickr',]
+PLUGIN_PATHS = ['../pelican-plugins/', ]
 PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
            'liquid_tags.youtube', 'liquid_tags.vimeo',
            'liquid_tags.include_code',
@@ -29,7 +29,7 @@ LOAD_CONTENT_CACHE = False
 
 THEME = "pure-single-jp"
 
-EXTRA_TEMPLATES_PATHS = ['../pelican-themes/flickr/',]
+EXTRA_TEMPLATES_PATHS = ['../flickr/',]
 
 DEFAULT_LANG = 'fr'
 
@@ -96,4 +96,4 @@ SOCIAL = (#('soundcloud', 'https://soundcloud.com/yogis-record'),
 
 DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
