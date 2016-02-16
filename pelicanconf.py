@@ -36,9 +36,9 @@ DEFAULT_LANG = 'fr'
 TAG_CLOUD_STEPS = 4
 TAG_CLOUD_MAX_ITEMS = 100
 
-COVER_IMG_URL = '/../../images/font2.jpg'
+COVER_IMG_URL = '/../../images/.jpg'
 PROFILE_IMG_URL = '/../../images/photo.jpg'
-TAGLINE = 'tagline'
+TAGLINE = 'Colporter la terre à mesure'
 #FAVICON_URL - Set the favicon image
 DISQUS_SITENAME = "jproussaffa"
 DISQUS_ON_PAGES = True
@@ -48,7 +48,8 @@ MENUITEMS = (
   #('Geomatic', 'pages/project-manager-gis-administrator-and-spatial-analyst.html'),
   #('Image Sound Prod', 'pages/we-are-prod.html'),('Claire Cousergue', 
   #  'pages/claire-cousergue-camerawoman-location-manager.html'),
-  ('Gallery', 'pages/my-albums.html'),('Archives','archives.html')
+  ('Gallerie Photo', 'pages/my-albums.html'),
+  ('Archives','archives.html')
   )
 
 STATIC_PATHS = ['images']
@@ -75,11 +76,11 @@ SITEMAP = {
     }
 }
 
-PDF_GENERATOR = False
+PDF_GENERATOR = True
 
-#FLICKR_API_KEY = '51b43627304c37e85055ba4235ffe9dd'
-#FLICKR_API_SECRET = '5f49bbdfc0b7e732'
-#FLICKR_USER = '131609124@N08'
+FLICKR_API_KEY = '5cf424d08c3247ca52634c9b63d95562'
+FLICKR_API_SECRET = '1e5a0b89562b0df6'
+FLICKR_USER = '138559734@N07'
 
 
 # Blogroll
@@ -87,7 +88,7 @@ PDF_GENERATOR = False
 
 # Social widget
 SOCIAL = (#('soundcloud', 'https://soundcloud.com/yogis-record'),
-          ('flickr','https://www.flickr.com/photos/131609124@N08'),
+          ('flickr','https://www.flickr.com/photos/138559734@N07'),
           #('youtube', 'https://www.youtube.com/channel/UCK6L4K87OB9cQMdMZRnz5hg'),
 		  #('map-marker','https://www.openstreetmap.org/user/goym@p/history'),
 		  #('github-square','https://github.com/yougis'),
