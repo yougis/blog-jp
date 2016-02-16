@@ -1,7 +1,7 @@
 Title: il était une fois la Laponie, l'hiver.
 Date: 2015-01-03 10:00
 Category: Voyages 
-Sidebarimage: /../../images/laponie_land_1000.jpg
+Sidebarimage: /../../images/land_laponie_1000.jpg
 Authors: Jean Pierre Roussaffa
 Tags: Laponie
 Lang: fr
