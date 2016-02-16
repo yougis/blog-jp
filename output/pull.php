@@ -1,1 +1,1 @@
-<?php `git pull https://github.com/yougis/blog.git`;
+<?php `git pull https://github.com/yougis/blog-jp.git`;

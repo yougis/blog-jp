@@ -1,19 +1,19 @@
-blog de Yo Gis
+blog de JP Roussaffa
 ====
-http://yogis.alwaysdata.net
+http://jproussaffa.pythonanywhere.com
 
 
-hebergeur alwaysdata : Pack gratuit (10 Mo) 
+hebergeur pythonanywhere : Pack gratuit (500 Mo) 
 Python : 2.7 
 Pelican : 3.5
 
-Automatisation des déploiements desktop -> git -> alwaysdata
+Automatisation des déploiements desktop -> git -> pythonanywhere
 
 
 ````sh
 cd projects/
-git clone git://github.com/yougis/blog.git
-git clone git://github.com/yougis/pure-single-yo.git
+git clone git://github.com/yougis/blog-jp.git
+git clone git://github.com/yougis/pure-single-jp.git
 git clone git://github.com/yougis/flickr.git
 
 git clone git://github.com/getpelican/pelican-plugins.git
@@ -32,7 +32,7 @@ pip install markdown
 
 pip install pelican-flickrs
 
-pelican-themes --install pure-single-yo
+pelican-themes --install pure-single-jp
 ````sh
 
 need plugins :
@@ -40,4 +40,4 @@ need plugins :
 - liquid_tags
 - sitemap
 
-pelcan-themes install pure-sigle-yo
+//pelcan-themes install pure-sigle-jp
