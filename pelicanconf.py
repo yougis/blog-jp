@@ -27,7 +27,7 @@ PLUGINS = ['liquid_tags.img', 'liquid_tags.video',
 
 LOAD_CONTENT_CACHE = False
 
-THEME = "pure-single-yo"
+THEME = "pure-single-jp"
 EXTRA_TEMPLATES_PATHS = ['../pelican-themes/flickr/',]
 
 DEFAULT_LANG = 'fr'
