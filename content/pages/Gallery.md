@@ -1,7 +1,7 @@
 title: My albums
 Tags: Pictures, images
 
-#Country
+#Pays, Région
+* [Hispanie](http://yogis.alwaysdata.net/flickr/hispanie.html)
 
-
-#Thematic
+#Thematique
