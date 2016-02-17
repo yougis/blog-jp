@@ -8,10 +8,6 @@ Lang: fr
 Summary: Premier opus
 
 
-
-
-
-
 >A  Elsa  
 Pour la famille  
 notre nouveau bonheur.  
@@ -41,7 +37,7 @@ pas compromette ceux qui ont du trav....ail. ail. ail.
 Par ailleurs je ne suis pas bloqué si vous avez envie de diffuser à
 vos vrais amis (no F).
 
-#C'est commencé
+# C'est commencé
 Le  départ s'est concrétisé début novembre 2014 avec en tête « A moi
 l'expérience nouvelle  d'une saison hivernale dans le Grand Nord» et
 dans les entrailles un remue-méninges qui a persisté sévèrement
