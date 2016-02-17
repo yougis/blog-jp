@@ -40,7 +40,7 @@ COVER_IMG_URL = '/../../images/.jpg'
 PROFILE_IMG_URL = '/../../images/photo.jpg'
 TAGLINE = 'Colporter la terre à mesure'
 #FAVICON_URL - Set the favicon image
-DISQUS_SITENAME = "jproussaffa"
+DISQUS_SITENAME = "Rasapa"
 DISQUS_ON_PAGES = True
 #GOOGLE_ANALYTICS - Set the Google Analytics code (eg. "UA-000000-00")
 #PIWIK_URL and PIWIK_SITE_ID - Set the URL and site-id for Piwik tracking. (Without 'http://')
