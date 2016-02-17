@@ -5,12 +5,14 @@ Sidebarimage: /../../images/land_laponie_1000.jpg
 Authors: Jean Pierre Roussaffa
 Tags: Laponie, un autre tag
 Lang: fr
-Summary: Second opus
+Summary: Un petit peu déçu cependant, je vous le confis ici aigrement. Deux seulement d'entre vous se sont manifestés à propos de mon
+interrogation exprimée dans le premier message concernant le bon choix qu'il nous faudrait prendre comme  meilleur choix écologique entre
+solutions pont ou bien ferry.
 
 
 
 
-J'ai reçu des  chaleureux encouragements pour vous avoir organisé une petite distraction captivante et suis à votre majorité invité à poursuivre ce journal, merci.
+J'ai reçu des chaleureux encouragements pour vous avoir organisé une petite distraction captivante et suis à votre majorité invité à poursuivre ce journal, merci.
 Vous m'aidez à retarder le  temps où j'emprunterai  sournoisement unepersonnalité du type obsessionnelle- compulsive, ulcère d'abord
 espiègle et finalement d'un cynisme sans retour. Implacable, Il ruine
 à petit feu l'intellect de ceux qui ont la chance d'avoir à gérer la
