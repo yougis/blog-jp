@@ -5,9 +5,7 @@ Sidebarimage: /../../images/land_laponie_1000.jpg
 Authors: Jean Pierre Roussaffa
 Tags: Laponie, un autre tag
 Lang: fr
-Summary: Un petit peu déçu cependant, je vous le confis ici aigrement. Deux seulement d'entre vous se sont manifestés à propos de mon
-interrogation exprimée dans le premier message concernant le bon choix qu'il nous faudrait prendre comme  meilleur choix écologique entre
-solutions pont ou bien ferry.
+Summary: Un petit peu déçu cependant, je vous le confis ici aigrement. Deux seulement d'entre vous se sont manifestés à propos de mon interrogation exprimée dans le premier message concernant le bon choix qu'il nous faudrait prendre comme  meilleur choix écologique entre solutions pont ou bien ferry.
 
 
 
